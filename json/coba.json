@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Slamet Mulyadi",
+    "umur": 22,
+    "nim": "3409753485",
+    "lulus": true,
+    "hoby": ["makan", "minum", "tidur"],
+    "pembimbing": {
+      "pembimbing1": "candra",
+      "pembimbing2": "rina"
+    }
+  },
+  {
+    "nama": "Slamet Mulyadi",
+    "umur": 22,
+    "nim": "3409753485",
+    "lulus": true,
+    "hoby": ["makan", "minum", "tidur"],
+    "pembimbing": {
+      "pembimbing1": "candra handi",
+      "pembimbing2": "rina nose"
+    }
+  }
+]
